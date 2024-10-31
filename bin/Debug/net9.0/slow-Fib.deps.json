@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "slow-Fib/1.0.0": {
+        "runtime": {
+          "slow-Fib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "slow-Fib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
